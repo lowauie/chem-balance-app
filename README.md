@@ -4,9 +4,7 @@
 
 ---
 
-## 📸 Preview
 
-<img src="https://i.imgur.com/oP0PNCE.png" width="600"/>
 
 
 ---
