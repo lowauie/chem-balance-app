@@ -3,8 +3,9 @@ from chempy import balance_stoichiometry
 
 st.set_page_config(page_title="Chemical Equation Balancer")
 
-st.title("⚗️ Chemical Equation Balancer"
-        Reem Alqahtani + Safia Madkour)
+st.title("⚗️ Chemical Equation Balancer")
+st.markdown("**Developed by Reem Mousa Al-Qahtani**")
+
 st.markdown("Enter an unbalanced chemical equation. Example: `H2 + O2 -> H2O`")
 
 user_input = st.text_input("Unbalanced Equation", "")
