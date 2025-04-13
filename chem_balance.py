@@ -4,7 +4,8 @@ from chempy import balance_stoichiometry
 st.set_page_config(page_title="Chemical Equation Balancer")
 
 st.title("⚗️ Chemical Equation Balancer")
-st.markdown("**Developed by Reem Mousa Al-Qahtani**")
+st.markdown("**Developed by Reem Mousa Al-Qahtani & Safiya Mohammed Madkour**")
+
 
 st.markdown("Enter an unbalanced chemical equation. Example: `H2 + O2 -> H2O`")
 
